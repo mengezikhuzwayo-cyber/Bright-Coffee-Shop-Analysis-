@@ -20,10 +20,12 @@ To analyze historical sales (6 motnhs from Janaury to June)  data and provide ac
 
 
 ## Summary Of Results 
-+ High-performing products were identified as key revenue drivers
-+ Peak sales were observed during specific time intervals
-+ Certain products showed consistently low performance, indicating opportunities for promotion or replacement
-+ Sales trends revealed patterns that can guide inventory and marketing strategies
-+ Recommendations were provided to optimize product offerings, improve marketing during slow periods, and increase overall efficiency
++ High-performing product categories were identified as key revenue drivers few being Coffe, Tea and Bakery.
++ Peak sales were observed during specific time intervals, Morning Rush and the Month of June.
++ Certain product categories (packaged chocolates, brand, flovours etc.) showed consistently low performance, indicating opportunities for promotion or replacement.
++ Sales trends revealed patterns that can guide inventory and marketing strategies.
++ Hell's Kicthen was identified as the high performing store location.
++ Total revenue across all store location is R6988112,33. 
++ Recommendations were provided to optimize product offerings, improve marketing during slow periods, and increase overall efficiency.
 
   
